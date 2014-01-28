@@ -2,4 +2,4 @@
 
 # Usage
 
-  - docker build .
+  docker build .
